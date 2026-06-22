@@ -1,0 +1,22 @@
+{
+  "name": "prakash-react",
+  "version": "1.0.0",
+  "description": "This is for testing react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakash-bbsr/react.git"
+  },
+  "author": "Prakash Chandra Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakash-bbsr/react/issues"
+  },
+  "homepage": "https://github.com/prakash-bbsr/react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
